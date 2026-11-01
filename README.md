@@ -135,7 +135,7 @@ Transformar essas telas em um aplicativo de verdade, ligá-lo a um catálogo de 
 
 ## Vídeo pitch
 
-> ▶️ **[Assista ao pitch do projeto](COLE-AQUI-O-LINK-DO-VIDEO)**
+> ▶️ **[Assista ao pitch do projeto](https://youtu.be/qaURvhUunm0)**
 
 ## Design
 
