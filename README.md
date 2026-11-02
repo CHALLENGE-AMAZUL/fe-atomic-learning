@@ -20,7 +20,7 @@ Um aplicativo para descobrir, em lições curtas e sem complicação, onde a tec
 
 | 🎬 Vídeo pitch | 🎨 Protótipo no Figma | 📘 Brandbook | 💻 Repositório |
 |:---:|:---:|:---:|:---:|
-| [Assistir](https://youtu.be/qaURvhUunm0) | [Abrir](https://www.figma.com/design/ZzPO6KsEZu40kNiQM5cpSG/Challenge-Amazul?node-id=0-1&t=eTO5oxkZP4yHkkR8-1) | [Baixar PDF](docs/brandbook/marca.pdf) | [GitHub](https://github.com/CHALLENGE-AMAZUL/fe-atomic-learning) |
+| [Assistir](https://youtu.be/qaURvhUunm0) | [Abrir](https://www.figma.com/design/ZzPO6KsEZu40kNiQM5cpSG/Challenge-Amazul?node-id=0-1&t=3I6LE5Nl6jPnic2v-1) | [Baixar PDF](docs/brandbook/marca.pdf) | [GitHub](https://github.com/CHALLENGE-AMAZUL/fe-atomic-learning) |
 
 ---
 
@@ -147,7 +147,7 @@ Transformar essas telas em um aplicativo de verdade, ligá-lo a um catálogo de 
 
 ## Design
 
-- 🎨 **[Telas e protótipo no Figma](https://www.figma.com/design/ZzPO6KsEZu40kNiQM5cpSG/Challenge-Amazul?node-id=0-1&t=eTO5oxkZP4yHkkR8-1)**
+- 🎨 **[Telas e protótipo no Figma](https://www.figma.com/design/ZzPO6KsEZu40kNiQM5cpSG/Challenge-Amazul?node-id=0-1&t=3I6LE5Nl6jPnic2v-1)**
 - 📘 **[Brandbook (PDF)](docs/brandbook/marca.pdf)**: identidade visual, cores, tipografia e tom de voz.
 
 ## Equipe
