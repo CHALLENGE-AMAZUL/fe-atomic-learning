@@ -16,6 +16,14 @@ Um aplicativo para descobrir, em lições curtas e sem complicação, onde a tec
 
 ---
 
+## Links úteis
+
+| 🎬 Vídeo pitch | 🎨 Protótipo no Figma | 📘 Brandbook | 💻 Repositório |
+|:---:|:---:|:---:|:---:|
+| [Assistir](https://youtu.be/qaURvhUunm0) | [Abrir](https://www.figma.com/design/ZzPO6KsEZu40kNiQM5cpSG/Challenge-Amazul?node-id=0-1&t=eTO5oxkZP4yHkkR8-1) | [Baixar PDF](docs/brandbook/marca.pdf) | [GitHub](https://github.com/CHALLENGE-AMAZUL/fe-atomic-learning) |
+
+---
+
 ## Por que isso existe
 
 Pergunte a alguém o que vem à cabeça quando ouve "nuclear". Quase sempre a resposta é usina, radiação, bomba. Pouca gente lembra que a mesma tecnologia aparece no exame que mostra o corpo por dentro, na conservação de alimentos, na pesquisa e na geração de energia.
@@ -140,7 +148,7 @@ Transformar essas telas em um aplicativo de verdade, ligá-lo a um catálogo de 
 ## Design
 
 - 🎨 **[Telas e protótipo no Figma](https://www.figma.com/design/ZzPO6KsEZu40kNiQM5cpSG/Challenge-Amazul?node-id=0-1&t=eTO5oxkZP4yHkkR8-1)**
-- 📘 **[Brandbook (PDF)](docs/brandbook/Brandbook-v4.pdf)**: identidade visual, cores, tipografia e tom de voz.
+- 📘 **[Brandbook (PDF)](docs/brandbook/marca.pdf)**: identidade visual, cores, tipografia e tom de voz.
 
 ## Equipe
 
@@ -162,7 +170,7 @@ Projeto do **Challenge FIAP**, com tema apresentado pela **AMAZUL**, empresa lig
 
 ## Como executar
 
-Nesta etapa o projeto é um **protótipo de design**, então não há nada para instalar:
+A entrega desta Sprint é um **protótipo em Figma**. Por isso não há nada para instalar:
 
 1. Abra o [protótipo no Figma](https://www.figma.com/design/ZzPO6KsEZu40kNiQM5cpSG/Challenge-Amazul?node-id=0-1&t=eTO5oxkZP4yHkkR8-1).
 2. Clique em **Apresentar** (▶) no canto superior direito para navegar pelas telas como no celular.
@@ -173,6 +181,12 @@ Para ter o material em casa, clone o repositório:
 ```bash
 git clone https://github.com/CHALLENGE-AMAZUL/fe-atomic-learning.git
 ```
+
+## Entrega
+
+O projeto é entregue pelo **Teams**, em um arquivo `.zip` com o conteúdo deste repositório.
+
+🔗 **Repositório no GitHub:** [https://github.com/CHALLENGE-AMAZUL/fe-atomic-learning](https://github.com/CHALLENGE-AMAZUL/fe-atomic-learning)
 
 ## Tecnologias
 
